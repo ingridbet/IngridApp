@@ -2,7 +2,15 @@
 
 Submitted by: **Ingrid Betancourt**
 
-**IntroIngrid** is an app that changes the background color the app with a button. I updated the UI of the app with different fonts and added image views to make it more appealing. [TODO] 
+**IntroIngrid** is an app that changes the background color the app with a button. I updated the UI of the app with different fonts and added image views to make it more appealing.
+
+<div>
+    <a href="https://www.loom.com/share/9184180a466f4df380da5537f545d75e">
+    </a>
+    <a href="https://www.loom.com/share/9184180a466f4df380da5537f545d75e">
+      <img style="max-width:300px;" src="null">
+    </a>
+  </div>
 
 Time spent: **12** hours spent in total
 
